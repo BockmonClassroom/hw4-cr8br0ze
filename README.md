@@ -75,6 +75,6 @@ Size and Capacity needs to be non-negative because it is not physically possible
 ### Animal to Habit Area with Fences is many to one (N:1)
 Name: habit in  
 This is because there are many animals living on each one fo the habit are.
-### Animal to Habit Area with Fences is many to many (N:M)
+### Animal to Zookeeper is many to many (N:M)
 Name: managed by  
 This is because many zookeeper will be assigned to many animals, there will be several zookeepers taking care of one animal and each zookeepers will also takes care of many animals
